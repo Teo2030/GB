@@ -1,0 +1,15 @@
+C:\Users\Teo\Desktop\practice\bin\Debug\net6.0\practice.exe
+C:\Users\Teo\Desktop\practice\bin\Debug\net6.0\practice.deps.json
+C:\Users\Teo\Desktop\practice\bin\Debug\net6.0\practice.runtimeconfig.json
+C:\Users\Teo\Desktop\practice\bin\Debug\net6.0\practice.dll
+C:\Users\Teo\Desktop\practice\bin\Debug\net6.0\practice.pdb
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\practice.csproj.AssemblyReference.cache
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\practice.AssemblyInfoInputs.cache
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\practice.AssemblyInfo.cs
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\practice.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\practice.dll
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\refint\practice.dll
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\practice.pdb
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\practice.genruntimeconfig.cache
+C:\Users\Teo\Desktop\practice\obj\Debug\net6.0\ref\practice.dll
